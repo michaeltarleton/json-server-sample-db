@@ -24,7 +24,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   },
   {
     "id": 2,
@@ -50,7 +51,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   },
   {
     "id": 3,
@@ -76,7 +78,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   },
   {
     "id": 4,
@@ -102,7 +105,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   },
   {
     "id": 5,
@@ -128,7 +132,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   },
   {
     "id": 6,
@@ -154,7 +159,8 @@
     },
     "active": true,
     "percent": 0.5,
-    "cashOnHand": 100
+    "cashOnHand": 100,
+    "dateOfBirth": "1985-01-01"
   }
 ]
 }
